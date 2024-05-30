@@ -1,5 +1,4 @@
 # Artela-node-
-README
 
 # Dependencies Installation
 
