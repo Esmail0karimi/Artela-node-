@@ -94,7 +94,7 @@ artelad status 2>&1 | jq .SyncInfo
 # Get Latest Height
 artelad status 2>&1 | jq -r '.SyncInfo.latest_block_height // .sync_info.latest_block_height'
 
-# Create a new wallet and write down 12 words and your wallet address
+# Create a new wallet and write down 24 words and your wallet address
 artelad keys add wallet
 
 # now you need faucet 
