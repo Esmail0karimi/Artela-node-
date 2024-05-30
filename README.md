@@ -1,4 +1,13 @@
 # Artela-node-
+# Minimum Hardware Requirements
+  4x CPUs; the faster clock speed the better
+  8GB RAM
+  100GB of storage (SSD or NVME)
+
+# Recommended Hardware Requirements
+  8x CPUs; the faster clock speed the better
+  16GB RAM
+  1TB of storage (SSD or NVME)
 
 # Dependencies Installation
 
