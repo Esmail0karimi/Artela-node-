@@ -159,5 +159,5 @@ artelad tx gov vote 1 yes --from wallet --chain-id artela_11822-1 --gas-adjustme
 # Be sure to fill out the form below
  https://atkty6pceir.typeform.com/to/o4359Rsd
 
- #  thank you 
+ #  thank you 1
 
