@@ -1,4 +1,4 @@
-# Artela-node
+# Artela-nodee
 # Minimum Hardware Requirements
   4x CPUs; the faster clock speed the better
   8GB RAM
